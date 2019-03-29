@@ -3,13 +3,13 @@ SQL Databases -  DB5
 
 This repository covers topics like
 
-SQL
-Introduction to SQL
-Basic SELECT Statement
-Table Variables and Set Operators
-Subqueries in WHERE Clause
-Subqueries in FROM and SELECT
-The JOIN Family of Operators
-Aggregation
-NULL Values
-Data Modification Statements
+1) SQL
+2) Introduction to SQL
+3) Basic SELECT Statement
+4) Table Variables and Set Operators
+5) Subqueries in WHERE Clause
+6) Subqueries in FROM and SELECT
+7) The JOIN Family of Operators
+8) Aggregation
+9) NULL Values
+10) Data Modification Statements
