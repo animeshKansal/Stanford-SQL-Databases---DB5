@@ -1,13 +1,15 @@
 # Stanford-SQL-Databases---DB5
 SQL Databases -  DB5
 
+This repository covers topics like
 
-Your queries will run over a small data set conforming to the schema.
-
-View the database. 
-
-https://lagunita.stanford.edu/c4x/DB/SQL/asset/moviedata.html
-
-(You can also download the schema and data.)
-
-https://s3-us-west-2.amazonaws.com/prod-c2g/db/Winter2013/files/rating.sql
+SQL
+Introduction to SQL
+Basic SELECT Statement
+Table Variables and Set Operators
+Subqueries in WHERE Clause
+Subqueries in FROM and SELECT
+The JOIN Family of Operators
+Aggregation
+NULL Values
+Data Modification Statements
